@@ -1,0 +1,6 @@
+{
+  "name": "GeoInfra AI - Intelligent Geospatial Infrastructure Health Analysis",
+  "description": "Deep learning and geospatial infrastructure health monitoring platform for automated defect detection, damage severity estimation, health scoring, and GIS maintenance prioritization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
